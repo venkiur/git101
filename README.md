@@ -6,16 +6,16 @@ Welcome to the **Git Basics** repository! This repository covers all the fundame
 
 ## 📖 Table of Contents
 
-- [What is Git?](#what-is-git)
-- [Installing Git](#installing-git)
-- [Basic Git Workflow](#basic-git-workflow)
-- [Common Git Commands](#common-git-commands)
-- [Branching and Merging](#branching-and-merging)
-- [Working with Remote Repositories](#working-with-remote-repositories)
-- [Git Ignore](#git-ignore)
-- [Undoing Changes](#undoing-changes)
-- [Git Best Practices](#git-best-practices)
-- [Resources](#resources)
+- What is Git?
+- Installing Git
+- Basic Git Workflow
+- Common Git Commands
+- Branching and Merging
+- Working with Remote Repositories
+- Git Ignore
+- Undoing Changes
+- Git Best Practices
+- Resources
 
 ---
 
